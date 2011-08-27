@@ -76,5 +76,5 @@ $.fn.uplift = function(opts) {
 				}, opts.timeout ); 
 				
 			}
-		
+			return mee;
 	}
